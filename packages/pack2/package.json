@@ -1,11 +1,11 @@
 {
   "name": "@jhderojas/jhderojas-pack2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "pack2",
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "@jhderojas/jhderojas-pack1": "^1.0.3"
+    "@jhderojas/jhderojas-pack1": "^1.0.4"
   },
   "gitHead": "ed60dd8bc3438976dd8a4af41a2e3ec8b322ed54"
 }
