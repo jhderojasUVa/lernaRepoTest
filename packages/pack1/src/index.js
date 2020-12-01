@@ -5,5 +5,6 @@ const helloWorld = () => console.log('Hello World')
 helloWorld()
 helloWorld()
 helloWorld()
+helloWorld()
 
 export default helloWorld
