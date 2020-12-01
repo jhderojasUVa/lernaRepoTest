@@ -1,7 +1,8 @@
 {
-  "name": "pack1",
+  "name": "@jhderojas/jhderojas-pack1",
   "version": "1.0.0",
   "description": "pack1",
   "main": "src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "87c7653dc0180d1efc153a61b6944e2d9a0573c5"
 }
