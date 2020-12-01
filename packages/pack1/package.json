@@ -1,0 +1,7 @@
+{
+  "name": "pack1",
+  "version": "1.0.0",
+  "description": "pack1",
+  "main": "src/index.js",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@jhderojas/lerna-monorepo-example",
+  "version": "1.0.0",
+  "repository": "https://github.com/jhderojasUVa/lernaRepoTest.git",
+  "author": "Jesus A Hernandez de Rojas <jesusangel.hernandezderojas@sky.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}

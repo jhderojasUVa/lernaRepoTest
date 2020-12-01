@@ -1,0 +1,10 @@
+{
+  "name": "@jhderojas/pack2",
+  "version": "1.0.0",
+  "description": "pack2",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@jhderojas/pack1": "file:../pack1"
+  }
+}
