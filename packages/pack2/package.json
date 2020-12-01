@@ -7,5 +7,8 @@
   "dependencies": {
     "@jhderojas/jhderojas-pack1": "^1.0.8"
   },
-  "gitHead": "10c383b0e7cf5e139f337b16972ce7168b17e0ad"
+  "gitHead": "c1ed4f2ece20a24e5f48bf32430dae3d70faad8d",
+  "publishConfig": {
+    "access": "public"
+  }
 }
